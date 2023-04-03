@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -LO https://github.com/rwu823/liu/raw/master/src/OpenVanilla%2Bliu.zip &&
+curl -LO https://github.com/yuwet15/liu/raw/master/src/OpenVanilla%2Bliu.zip &&
 unzip ./OpenVanilla+liu.zip &&
 mv ./OpenVanilla.app ~/Library/Input\ Methods/ &&
 
